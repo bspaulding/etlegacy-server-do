@@ -1,0 +1,10 @@
+{
+	"name": "etlegacy-server-do",
+	"dependencies": {
+		"dotenv": "^4.0.0",
+		"es6-promise": "^4.1.1",
+		"isomorphic-fetch": "^2.2.1",
+		"node-ssh": "^4.2.3",
+		"prettier": "^1.5.3"
+	}
+}
